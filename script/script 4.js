@@ -1,4 +1,4 @@
-// submit 
+// submit
 
 /*
 
@@ -11,7 +11,7 @@ btn.addEventListener("submit" , function() {
 
 */
 
-// event 
+// event
 
 /*
 
@@ -24,7 +24,7 @@ logBtn.addEventListener("click" , function(event) {
 
 */
 
-// node 
+// node
 
 /*
 

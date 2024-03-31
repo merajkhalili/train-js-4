@@ -1,0 +1,7 @@
+.text {
+  color: aqua;
+}
+
+.todo-list-item {
+  list-style: decimal;
+}
